@@ -195,7 +195,6 @@ SELECT * FROM SANPHAM
 SELECT * FROM HOADON
 SELECT * FROM CTHD
 
--- Tran Tri Thien - 24521670
 
 -----------------------------------LAB 1--------------------------------------
 ---------I. Ngôn ngữ định nghĩa dữ liệu (Data Definition Language)------------
